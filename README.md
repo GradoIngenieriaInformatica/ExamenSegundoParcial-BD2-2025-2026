@@ -1,4 +1,4 @@
-# Taller / Evaluación — Bases de Datos Vectoriales
+# Exámen del Segundo Parcial — Bases de Datos de Grafos  y Vectoriales
 
 ### Objetivo
 
